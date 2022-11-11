@@ -16,7 +16,7 @@ def main():
     </div>
     """
     st.markdown(html_temp, unsafe_allow_html=True)
-    age = st.text_input("Age")
+    age = st.text_input("Age (in month)")
     number = st.text_input("Number")
     start = st.text_input("Start")
 
