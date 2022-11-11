@@ -9,3 +9,12 @@ Start: the number of first (topmost) vertebra operated on
 
 Output:
 Kyphosis: a factor with levels "absent" or "present" indicating if a keyboard (a type of deformation) was present after the operation.
+
+
+# About the files uploaded
+In this file:
+1. Kyphosis_Disease_Classification.ipynb - contains code written in jupyter notebook in which the model is built.
+2. app.py - contains code in which the GUI is made.
+3. randomtree.pkl - is the pickle file that contains the code of the model selected that is implemented in the GUI.
+4. kyphosis.csv - contains the entire dataset.
+5. Kyphosis_Disease_Predition.pdf - is the pdf of the jupyter notebook.
